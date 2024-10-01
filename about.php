@@ -3,6 +3,6 @@ require "load.php";
 $ObjLayouts->heading();
 $ObjMenus->main_menu();
 $ObjHeadings->main_banner();
-$ObjContent->main_content();
-$ObjContent->side_bar();
+$ObjCont->about_content();
+$ObjCont->side_bar();
 $ObjLayouts->footer();
